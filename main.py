@@ -1,1 +1,0 @@
-# Der liebe Gott steckt im Detail

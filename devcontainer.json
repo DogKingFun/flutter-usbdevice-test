@@ -1,0 +1,9 @@
+{
+    "name": "Flutter Development",
+    "image": "flutter/flutter",
+    "extensions": ["dart-code.dart-code", "dart-code.flutter"],
+    "settings": {
+      "dart.sdkPath": "/usr/lib/dart"
+    },
+    "forwardPorts": [8080, 8888]
+  }
